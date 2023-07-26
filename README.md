@@ -1,4 +1,4 @@
-# QAssistant
+ # QAssistant
 ![Version](https://img.shields.io/github/stars/KitsunePie/QAssistant)
 ![License](https://img.shields.io/github/license/KitsunePie/QAssistant)     
 点击加入:[Telegram频道](https://t.me/QAssistant)    
